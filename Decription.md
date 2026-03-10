@@ -21,7 +21,7 @@ Overall, this project demonstrates the integration of **frontend web technologie
 | Layer | Technology |
 |------|-------------|
 | Frontend | HTML, CSS, JavaScript |
-| Backend | Java (Servlets & JSP) |
+| Backend | Java (Servlets) |
 | Database | MySQL |
 | Server | Apache Tomcat |
 | Local Server | XAMPP |
@@ -79,5 +79,6 @@ This project is suitable for **Java Web Development beginners and academic submi
 
 ## 🐥License
 This project is licensed under the **Tops Technologies**.
+
 
 You are free to use, modify, and distribute this project for educational and personal purposes.
